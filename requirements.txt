@@ -1,0 +1,9 @@
+pandas
+numpy
+xgboost
+scikit-learn
+scipy
+PyWavelets
+matplotlib # for potential visualizations/debugging, though not explicitly used for core logic
+
+
